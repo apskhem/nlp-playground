@@ -13,8 +13,8 @@ import utils
 
 LM_FILE = "model/nlp_model.hdf5"
 WV_FILE = "model/wv_model.hdf5"
-INPUT_FILE = "rechal/input.txt"
-OUTPUT_FILE = "rechal/ans.txt"
+INPUT_FILE = "contest/input.txt"
+OUTPUT_FILE = "contest/ans.txt"
 MAX_WORDS_COUNT = 92
 WORD_VECTOR_SIZE = 128
 
